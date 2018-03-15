@@ -1,21 +1,12 @@
-Oi m8 welcome u bleedin fool, play any pokemon lately?
+_Cartoon narwhal said "Oi m8 welcome u bleedin fool, play any pokemon lately?"
 You can use the [editor on GitHub](https://github.com/Cartoonnarwhal/Cartoonnarwhal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-###DEEEEEEEEEEEEEEEEEEZ NUTS!
+###**BOI!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
-GODZILLA EATS
-FAT BABIES
+**GODZILLA EATS
+FAT BABIES/Enriques
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
