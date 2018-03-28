@@ -14,7 +14,7 @@ Sweet
 Sister
 Sadistic
 Service
-
+SQUIRTLE
 
 
 Red pandas are the best
@@ -23,3 +23,7 @@ Red pandas are the best
 
 ###Go squirtle my fave water type
 <img src="download.jpeg">
+
+
+
+She asks me if i love her. I tell her only partly I only love my bed and my mom m sorry
