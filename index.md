@@ -14,10 +14,12 @@ Sweet
 Sister
 Sadistic
 Service
-SUC
 
 
 
+Red pandas are the best
 
 
-Go squirtle the BEST water type
+
+###Go squirtle my fave water type
+<img src="">
