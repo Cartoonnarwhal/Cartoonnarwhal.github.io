@@ -115,5 +115,5 @@ Oh, yeah!
 <img src="DOI">
 
 
-<img src="giphy.gif">
+<img src="JOI">
 
