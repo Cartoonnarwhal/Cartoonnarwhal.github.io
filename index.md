@@ -1,4 +1,4 @@
-Hello my m8s, Its ya boi (no) Cartoon narwhal
+Hello my m8s, Its (not) ya boi Cartoon narwhal
 
 
 
@@ -17,7 +17,7 @@ Service
 SQUIRTLE
 
 
-Red pandas are the best
+Red pandas are the best pandas
 
 
 
@@ -119,3 +119,4 @@ Oh, yeah!
 
 
 <img src="JOI">
+<(^w^<) HUGS !
