@@ -35,3 +35,5 @@ Ya m8 ill be there in 10 min hold on i just took a arrow to the knee it hurts li
 <img src="HOI">
 <img src="LOI">
 <img src="MOI">
+
+ HOI MANOY HE USED TO BE A SKATER BOI
