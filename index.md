@@ -115,7 +115,6 @@ Oh, yeah!
 <img src="DOI">
 
 
-<img src="WOI">
 
 
 <(^w^<) HUGS !
