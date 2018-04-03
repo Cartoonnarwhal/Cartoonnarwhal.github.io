@@ -1,1 +1,2 @@
-
+Hello,Thank you for clicking on this link. On here we will be talking about the legend of zelda. to give you an idea of what the legend of zelda is about imagine yourself as a knight trying to save a princess with a variety of items your couruage and wits to help you on your way.
+The main character,link, is most of time a child in green. there are many links through the years only few are the same. link is a silet protaganist
