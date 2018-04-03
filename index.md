@@ -2,7 +2,7 @@ Hello my m8s, Its (not) ya boi Cartoon narwhal
 
 
 
-ZELDA PAGE
+ZELDA PAGE if u want 2
 [<img src="COI">](Loz.md)
 
 
