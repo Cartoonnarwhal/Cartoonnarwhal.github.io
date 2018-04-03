@@ -3,7 +3,7 @@ Hello my m8s, Its (not) ya boi Cartoon narwhal
 
 
 ZELDA PAGE
-<img src="COI">
+[<img src="COI">](Loz.md)
 
 
 
