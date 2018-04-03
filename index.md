@@ -118,5 +118,4 @@ Oh, yeah!
 <img src="WOI">
 
 
-<img src="JOI">
 <(^w^<) HUGS !
