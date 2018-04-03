@@ -2,8 +2,8 @@ Hello my m8s, Its (not) ya boi Cartoon narwhal
 
 
 
-###WE LOVE NARWHALS
-<img src="BOI">
+ZELDA PAGE
+<img src="COI">
 
 
 
