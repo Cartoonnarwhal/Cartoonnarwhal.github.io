@@ -106,7 +106,7 @@ Come on Cranky!
 Take it to the stage! 
   
 ** Walnuts, peanuts, pineapple smells! 
-Grapes, melons, oranges, and coconut shells! 
+RAPES, melons, oranges, and coconut shells! 
 ** REPEAT 
 Oh, yeah! 
 
